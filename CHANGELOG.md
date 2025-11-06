@@ -8,7 +8,7 @@
 - Added full Miscrit catching system with random spawns in dedicated channels.
 - Implemented shiny Miscrits with proper rarity rates and image handling.
 - Added Miscrit evolution logic and level-based growth system.
-- Introduced elemental types (Fire, Water, Earth, Nature, Lightning, Air, etc.).
+- Introduced elemental types (Fire, Water, Nature, Earth, Lightning, Wind).
 - Added background assets and environment-based spawn logic.
 - Created complete in-bot Miscrit image and shiny image handler (from GitHub assets).
 
