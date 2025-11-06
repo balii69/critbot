@@ -23,7 +23,7 @@
 #### 💎 Trading & Economy
 - Added direct trading between players with confirmation system.
 - Added basic crate rewards, currency, and inventory management.
-- Implemented daily quests and passive XP system.
+- Implemented quests and passive XP system.
 - Added catch-based rewards and randomized loot chances.
 
 #### 🧠 Technical & Utility Features
