@@ -44,7 +44,7 @@
 - Introduced event-exclusive tokens that can be earned through catches and quests.
 - Added a dedicated event shop with rotating items and limited titles.
 - Current event: **Halloween 2025**  
-- Spawning of Halloween-themed Miscrits with boosted shiny odds.  
+- Spawning of Halloween-themed Miscrits with boosted miscrits shiny odds (1/4096 -> 1/2048).  
 - Added “Pumpkin Tokens” as event currency.  
 - Event-exclusive shop rewards and cosmetics.  
 - Includes time-limited backgrounds and UI colors matching the theme.  
