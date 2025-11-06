@@ -42,7 +42,7 @@
 #### 🎃 Seasonal & Event System
 - Added full event system with limited-time Miscrits and themed rewards.
 - Introduced event-exclusive tokens that can be earned through catches and quests.
-- Added a dedicated event shop with rotating items and limited Miscrits.
+- Added a dedicated event shop with rotating items and limited titles.
 - Current event: **Halloween 2025**  
 - Spawning of Halloween-themed Miscrits with boosted shiny odds.  
 - Added “Pumpkin Tokens” as event currency.  
