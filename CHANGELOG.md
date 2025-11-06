@@ -17,8 +17,8 @@
 - Added Miscrit stat system (HP, Attack, Defense, Speed, Elemental multipliers).
 - Introduced level and XP gain system for each Miscrit.
 - Added player profiles with inventory, titles and stats.
-- Added global leaderboard for XP and player rank.
-- Implemented boss battles and random enemy encounters.
+- Added global leaderboard for Gold, User-Level and Caught Miscrits.
+- Implemented boss battles (Elementums + Apollo Nox)
 
 #### 💎 Trading & Economy
 - Added direct trading between players with confirmation system.
