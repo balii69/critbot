@@ -50,6 +50,36 @@
     section h2 {
       color: #f9c74f;
     }
+    .showcase {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 30px;
+      margin-top: 30px;
+    }
+    .feature-card {
+      background: #111;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 0 20px rgba(0,0,0,0.4);
+      width: 260px;
+      text-align: center;
+      transition: transform 0.25s ease, box-shadow 0.25s ease;
+    }
+    .feature-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 0 25px rgba(249,199,79,0.6);
+    }
+    .feature-card img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+    .feature-card p {
+      padding: 12px;
+      color: #ccc;
+      font-size: 15px;
+    }
     footer {
       margin-top: 60px;
       padding: 20px;
